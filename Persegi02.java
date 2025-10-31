@@ -20,7 +20,5 @@ public class Persegi02 {
             }
             System.out.println();
         }
-
-        sc.close();
     }
 }
